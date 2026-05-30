@@ -1,0 +1,15 @@
+export const spacing = {
+  xs: 8,
+  sm: 16,
+  md: 24,
+  lg: 32,
+  screenHorizontal: 16,
+  buttonHeight: 48,
+  touchTarget: 44,
+  cardRadius: 16,
+  chipRadius: 20,
+  buttonRadius: 12,
+  cardImageHeight: 192,
+  detailHeroHeight: 288,
+  featuredCardWidthRatio: 0.72,
+} as const;
