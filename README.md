@@ -18,11 +18,11 @@ Built with **Expo SDK 56**, **TypeScript**, and **React Navigation**.
 
 ## Screenshots
 
-| Home | Map | Trending |
+| Home | Trending | Map |
 | :---: | :---: | :---: |
 | <img width="240" alt="Home screen" src="https://github.com/user-attachments/assets/526e9935-6f18-4aeb-ba1c-4a6937ecfb0b" /> | <img width="240" alt="Map screen" src="https://github.com/user-attachments/assets/c9355c54-289d-4218-88c9-ee6442ae7627" /> | <img width="240" alt="Trending screen" src="https://github.com/user-attachments/assets/6cf5370b-202d-4c3a-be95-d8026aad3db6" /> |
 
-| Favorites | Place Details |
+| Favorites | Tranding |
 | :---: | :---: |
 | <img width="240" alt="Favorites screen" src="https://github.com/user-attachments/assets/de6361cd-723d-41f8-80bf-3b776d46f7de" /> | <img width="240" alt="Place Details screen" src="https://github.com/user-attachments/assets/fdd7695c-0a5b-4144-abc3-4df17fcf9b89" /> |
 
